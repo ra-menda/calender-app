@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          ハローワールド！！！ようこそ世界！！！これが見えるってことはきっと動いてるわ
+          Macで編集
         </p>
         <a
           className="App-link"
